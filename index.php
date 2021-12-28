@@ -1,2 +1,3 @@
 <?php
-phpinfo();
+echo "你好";
+die();

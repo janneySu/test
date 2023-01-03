@@ -1,3 +1,3 @@
 <?php
-$a = '你好';
+$a = 'hello word';
 echo $a;

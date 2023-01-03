@@ -1,3 +1,3 @@
 <?php
-$a = '你好呀，2022-01-03';
+$a = 'hello word';
 echo $a;
